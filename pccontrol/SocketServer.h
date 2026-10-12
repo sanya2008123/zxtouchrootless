@@ -9,7 +9,7 @@
 #include <unistd.h>
 #endif
 
-#define PORT 6000
+#define PORT 47840
 #define ADDR "0.0.0.0"
 
 void socketServer();
